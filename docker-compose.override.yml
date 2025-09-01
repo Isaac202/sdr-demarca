@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  app:
+    volumes:
+      - ./src:/app/src
+    command: uvicorn app.interfaces.http.main:app --reload --host 0.0.0.0 --port 8000
