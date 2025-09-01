@@ -1,0 +1,4 @@
+.env
+*.ev.env
+.env.*
+!.env.example
