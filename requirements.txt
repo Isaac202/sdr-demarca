@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+openai-agents
+sqlalchemy
+alembic
+asyncpg
+redis
+python-dotenv
