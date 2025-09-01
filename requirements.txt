@@ -6,3 +6,4 @@ alembic
 asyncpg
 redis
 python-dotenv
+openai_agents
